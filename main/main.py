@@ -4,7 +4,7 @@ import wordcount.wordcount
 import command.cmd
 import tools.timelist
 import log.writelog
-import config.BotConfig
+import Botconfig.BotConfig
 
 timelist = tools.timelist.timelist().CreateTimeList()
 # bot起動時の日時取得
